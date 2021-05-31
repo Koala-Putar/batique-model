@@ -6,3 +6,4 @@ Data that being used was an improved version of https://www.kaggle.com/dionisius
 - VGG16 base
 - InceptionV3 base
 - Xception base
+- MobileNetV2
